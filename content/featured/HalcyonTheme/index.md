@@ -1,16 +1,15 @@
 ---
 date: '1'
-title: 'Halcyon Theme'
-cover: './halcyon.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+title: 'New York City Taxi Trip Duration'
+cover: './taxi.jpg'
+github: 'https://github.com/aniketvakil/New-York-City-Taxi-Trip-Duration'
+external: 'https://www.kaggle.com/c/nyc-taxi-trip-duration'
 tech:
-  - VS Code
-  - Sublime Text
-  - Atom
-  - iTerm2
-  - Hyper
+  - Python
+  - Machine Learning
+  - Neural Networks
+  - Random Forest
 showInProjects: true
 ---
 
-A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+Kaggle competition aimed at building a model that predicts the total ride duration of taxi trip in New York City based on features such as pickup time, geo-coordinates, number of passengers, and several other variables.
