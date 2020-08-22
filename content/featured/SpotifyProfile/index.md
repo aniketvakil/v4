@@ -1,15 +1,15 @@
 ---
 date: '2'
-title: 'Spotify Profile'
+title: 'M5 Forecasting - Accuracy'
 cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+github: 'https://github.com/aniketvakil/M5-Forecasting---Accuracy'
+external: 'https://www.kaggle.com/c/m5-forecasting-accuracy'
 tech:
-  - React
-  - Node.js
-  - Express
-  - Spotify Web API
+  - Python
+  - Machine Learning
+  - LightGBM
+  - Time Series Forecasting
 showInProjects: true
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+One of two complementary Kaggle competitions that aim at forecasting the unit sales of various products sold in the USA by Walmart.

@@ -1,12 +1,12 @@
 ---
 date: '2018-05-14'
-title: 'Engineer'
-company: 'Upstatement'
-location: 'Boston, MA'
-range: 'May 2018 - Present'
-url: 'https://www.upstatement.com/'
+title: 'Machine Learning Intern'
+company: 'NetWeb Software'
+location: 'Vadodara, GJ, India'
+range: 'May 2019 - July 2019'
+url: 'https://www.netweb.biz/'
 ---
 
-- Write modern, performant, maintainable code for a diverse array of client and internal projects
-- Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, TypeScript, Gatsby, React, Craft, Wordpress, Prismic, and Netlify
-- Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis
+- Work with senior ML engineers to help create a dataset of rent prices of homes in various Indian Metro cities
+- Work with fellow interns to pre-process the data to create a dataset on which modelling could be performed
+- Experimented with a team of interns with different models to predict the rent price of various houses in Indian Metro cities

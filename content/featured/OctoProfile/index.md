@@ -1,14 +1,15 @@
 ---
 date: '3'
-title: 'OctoProfile'
-cover: './octoprofile.png'
-github: 'https://github.com/bchiang7/octoprofile'
-external: 'https://octoprofile.now.sh'
+title: 'NBA MVP 19/20 Prediction'
+cover: './nba.jpg'
+github: 'https://github.com/aniketvakil'
+external: 'https://github.com/aniketvakil'
 tech:
-  - Next.js
-  - Chart.js
-  - GitHub API
+  - Python
+  - Machine Learning
+  - Random Forest
+  - SciKit Learn
 showInProjects: true
 ---
 
-A nicer look at your GitHub profile and repo stats. Includes data visualizations of your top languages, starred repositories, and sort through your top repos by number of stars, forks, and size.
+A machine learning model which predicts the MVP (Most Valuable Player) for then NBA 2019-20 season using multiple models and also highlights the 'snubs' over the years.

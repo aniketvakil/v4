@@ -2,18 +2,18 @@
 title: 'About Me'
 avatar: './me.jpg'
 skills:
-  - JavaScript (ES6+)
-  - HTML & (S)CSS
-  - React
-  - Vue
-  - Node.js
-  - WordPress
+  - Python
+  - TensorFlow
+  - SQL
+  - Tableau
+  - PyTorch
+  - Keras
 ---
 
-Hello! I'm Brittany, a software engineer based in Boston, MA.
+Hello, I'm Aniket, a software engineer and Data Analytics enthusiast based in Vadodara, GJ, India.
 
-I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between. My goal is to always build products that provide pixel-perfect, performant experiences.
+I enjoy working on tasks and projects that fall under the banner of data analytics and can be solved using such methods. I love learning new things, whether that be a new technology, a random fact about the Universe, or anything in between.
 
-Shortly after graduating from [Northeastern University](https://www.ccis.northeastern.edu/), I joined the engineering team at [Upstatement](https://www.upstatement.com/) where I work on a wide variety of interesting and meaningful projects on a daily basis.
+I am currently in my final semester at [Nirma University](https://www.nirmauni.ac.in), and on completion, I plan to search for job opportunities which allow me to work on a variety of interesting projects.
 
 Here are a few technologies I've been working with recently:
