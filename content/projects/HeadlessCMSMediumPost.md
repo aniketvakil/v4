@@ -1,15 +1,13 @@
 ---
 date: '2019-11-12'
-title: 'Building a Headless Mobile App CMS From Scratch'
+title: 'Content Based Movie Recommendation System'
 github: ''
 external: 'https://medium.com/stories-from-upstatement/building-a-headless-mobile-app-cms-from-scratch-bab2d17744d9'
 tech:
-  - Node
-  - Express
-  - Firebase
-  - Vue
-company: 'Upstatement'
+  - Python
+  - Recommendation System
+  - Machine Learning
 showInProjects: true
 ---
 
-Find out how we built a custom headless CMS with Node, Express, and Firebase for a project at Upstatement
+Built a content based moive recommendation system that gives weightage to a parameter of the user's choice, such as director, actor, genre, etc.'

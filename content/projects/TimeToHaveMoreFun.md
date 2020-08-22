@@ -1,14 +1,14 @@
 ---
 date: '2020-01-10'
-title: 'Time to Have More Fun'
-github: 'https://github.com/bchiang7/time-to-have-more-fun'
-external: 'https://time-to-have-more-fun.now.sh/'
+title: 'M5 Forecasting - Uncertainty'
+github: 'https://github.com/aniketvakil/M5-Forecasting---Uncertainty'
+external: 'https://www.kaggle.com/c/m5-forecasting-uncertainty'
 tech:
-  - Next.js
-  - Tailwind CSS
-  - Firebase
+  - Machine Learning
+  - Python
+  - Time Series Forecasting
 company: ''
 showInProjects: true
 ---
 
-A single page web app for helping me choose where to travel, built with Next.js, Firebase, and Tailwind CSS
+One of two complementary Kaggle competitions aimed at estimating the uncertainty of distribution of the unit sales of various products sold in the USA by Walmart.
