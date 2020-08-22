@@ -1,7 +1,7 @@
 ---
 date: '2'
 title: 'M5 Forecasting - Accuracy'
-cover: './demo.png'
+cover: './sales.jpg'
 github: 'https://github.com/aniketvakil/M5-Forecasting---Accuracy'
 external: 'https://www.kaggle.com/c/m5-forecasting-accuracy'
 tech:
